@@ -1,3 +1,6 @@
+https://myfisrtcloudapp.visualstudio.com/ContosoAir/_apis/build/status/ContosoAir?branchName=master
+[![Build Status](https://myfisrtcloudapp.visualstudio.com/ContosoAir/_apis/build/status/ContosoAir?branchName=master)](https://myfisrtcloudapp.visualstudio.com/ContosoAir/_build/latest?definitionId=18&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
